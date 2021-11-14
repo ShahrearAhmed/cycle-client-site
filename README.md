@@ -1,8 +1,11 @@
+Website Name: CycleBazar BD
+
 #Client Site Live Link:
+https://cycle-bd.netlify.app
 
+#Server Site Code Link:
 
-#Server Site Live Link:
-
+https://github.com/ShahrearAhmed/cycle-server-site
 
 #Short Description About Our Site:
 
